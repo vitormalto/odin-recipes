@@ -1,0 +1,1 @@
+This project is the conclusion of the HTML branch of The Odin Project course. I'll be using basic HTML commands to make a recipe website.
